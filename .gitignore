@@ -1,0 +1,7 @@
+#Igniore files#
+###############
+Makefile*
+Morinspec.pro.user
+debug/*
+object_script.*
+ui_*.h

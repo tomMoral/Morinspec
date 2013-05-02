@@ -59,8 +59,7 @@ FORMS += reportermv.ui \
     snapshotdialog.ui \
     reportdialog.ui \
     paramdialog.ui
-RESOURCES += 
-RC_FILE += morinspec.rc
+RESOURCES +=
 
 OTHER_FILES += \
     ToDo.txt
